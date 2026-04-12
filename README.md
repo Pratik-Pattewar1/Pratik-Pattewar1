@@ -21,17 +21,39 @@
 **Frontend**
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg"                          alt="JavaScript"  width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg"                          alt="TypeScript"  width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg"                      alt="Python"      width="55" height="55" />
-  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg"   alt="React"       height="50" style="margin:10px" />
-  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"   alt="HTML5"       height="50" style="margin:10px" />
-  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg"    alt="CSS3"        height="50" style="margin:10px" />
-  <img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg"                alt="Chart.js"    height="50" style="margin:10px" />
-  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg"               alt="Tailwind CSS" height="50" style="margin:10px" />
-  <img src="https://profilinator.rishav.dev/skills-assets/mui.png"                       alt="Material UI" height="50" style="margin:10px" />
-  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"              alt="Git"         height="50" style="margin:10px" />
-  <img src="https://profilinator.rishav.dev/skills-assets/salesforce.png"                alt="Salesforce"  height="50" style="margin:10px" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" style="margin:10px" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" style="margin:10px" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" style="margin:10px" />
+  </a>
+  <a href="https://www.chartjs.org/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" style="margin:10px" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" style="margin:10px" />
+  </a>
+  <a href="https://mui.com/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" style="margin:10px" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" style="margin:10px" />
+  </a>
+  <a href="https://www.salesforce.com/in/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="Salesforce" height="50" style="margin:10px" />
+  </a>
 </div>
 
   </td>
@@ -40,13 +62,27 @@
 **Backend**
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg"                          alt="Nginx"      width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg"                        alt="REST API"   width="55" height="55" />
-  <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg"    alt="MongoDB"    height="50" style="margin:10px" />
-  <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg"    alt="Express.js" height="50" style="margin:10px" />
-  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg"      alt="MySQL"      height="50" style="margin:10px" />
-  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"                 alt="Git"        height="50" style="margin:10px" />
-  <img src="https://profilinator.rishav.dev/skills-assets/xampp.png"                        alt="XAMPP"      height="50" style="margin:10px" />
+  <a href="https://nginx.org/" target="_blank">
+    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="55" height="55" />
+  </a>
+  <a href="https://restfulapi.net/" target="_blank">
+    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="55" height="55" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" style="margin:10px" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" style="margin:10px" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" style="margin:10px" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" style="margin:10px" />
+  </a>
+  <a href="https://www.apachefriends.org/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" style="margin:10px" />
+  </a>
 </div>
 
   </td>
@@ -55,14 +91,30 @@
 **AI / ML**
 <div align="center">
 
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" style="margin:10px; display:inline;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="55" height="55" style="margin:10px; display:inline;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="55" height="55" style="margin:10px; display:inline;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="55" height="55" style="margin:10px; display:inline;">
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="55" height="55" style="margin:10px; display:inline;">
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200" width="55" height="55" style="margin:10px; display:inline;">
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200" width="55" height="55" style="margin:10px; display:inline;">
-  <img src="https://avatars.githubusercontent.com/u/130722866?s=200" width="55" height="55" style="margin:10px; display:inline;">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" style="margin:10px;" />
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="55" height="55" style="margin:10px;" />
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="55" height="55" style="margin:10px;" />
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="55" height="55" style="margin:10px;" />
+  </a>
+  <a href="https://huggingface.co/" target="_blank">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="55" height="55" style="margin:10px;" />
+  </a>
+  <a href="https://openai.com/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/126733545?s=200" width="55" height="55" style="margin:10px;" />
+  </a>
+  <a href="https://www.langchain.com/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/139895814?s=200" width="55" height="55" style="margin:10px;" />
+  </a>
+  <a href="https://www.anthropic.com/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/130722866?s=200" width="55" height="55" style="margin:10px;" />
+  </a>
 
 </div>
 
