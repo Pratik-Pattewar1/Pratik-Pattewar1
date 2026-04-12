@@ -17,7 +17,31 @@
 <table><tr><td valign="top" width="33%">
 <b>Frontend</b>
 <div align="center">  
-React • HTML5 • JavaScript • TypeScript • Tailwind CSS • Python • Git  
+
+<a href="https://reactjs.org/" target="_blank">
+<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50" />
+</a>
+
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/>
+
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" />
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank">
+<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" />
+</a>
+
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" />
+</a>
+
 </div>
 </td>
 
