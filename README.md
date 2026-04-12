@@ -41,7 +41,6 @@
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/nginx-icon.svg"                          alt="Nginx"      width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg"                         alt="Node.js"    width="55" height="55" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg"                        alt="REST API"   width="55" height="55" />
   <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg"    alt="MongoDB"    height="50" style="margin:10px" />
   <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg"    alt="Express.js" height="50" style="margin:10px" />
@@ -54,32 +53,16 @@
   <td valign="top" width="33%">
 
 **AI / ML**
-
 <div align="center">
 
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" 
-       alt="Python" width="55" height="55" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" 
-       alt="PyTorch" height="50" style="margin:10px" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" 
-       alt="TensorFlow" height="50" style="margin:10px" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" 
-       alt="PyCharm" height="50" style="margin:10px" />
-
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" 
-       alt="Hugging Face" height="50" style="margin:10px" />
-
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200" 
-       alt="LangChain" height="50" style="margin:10px" />
-
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200" 
-       alt="LangGraph" height="50" style="margin:10px" />
-
-  <img src="https://avatars.githubusercontent.com/u/130722866?s=200" 
-       alt="LlamaIndex" height="50" style="margin:10px" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" style="margin:10px; display:inline;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="55" height="55" style="margin:10px; display:inline;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="55" height="55" style="margin:10px; display:inline;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="55" height="55" style="margin:10px; display:inline;">
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="55" height="55" style="margin:10px; display:inline;">
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200" width="55" height="55" style="margin:10px; display:inline;">
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200" width="55" height="55" style="margin:10px; display:inline;">
+  <img src="https://avatars.githubusercontent.com/u/130722866?s=200" width="55" height="55" style="margin:10px; display:inline;">
 
 </div>
 
