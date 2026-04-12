@@ -1,14 +1,14 @@
 <h2 align="center">Hello World 👋 I'm Pratik Pattewar</h2>
-<h4 align="center">Full-Stack Developer | AI/ML Enthusiast</h4>
+<h4 align="center">Full-Stack Developer | AI/ML Engineer | Deep Learning</h4>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="60%" />
 </p>
 
-- 🔭 I'm currently working on **NextMeet (Video Calling + Chat App)**  
-- 🌱 Currently exploring **AI/ML, Transformers, Backend Systems, Docker**  
-- 💬 Ask me about **MERN Stack, React, Node.js, Java, Machine Learning Basics**  
-- ⚡ Fun fact: **I build projects while learning — not just theory**
+-  I'm currently working on **AI Voice Assistant**  
+-  Currently exploring **AI/ML, Transformers, Backend Systems, Docker**  
+-  Ask me about **MERN Stack, React, Node.js, Java, Machine Learning Basics**  
+-  Fun fact: **I build projects while learning — not just theory**
 
 <br/>
 
@@ -147,16 +147,32 @@
 
 ---
 
+
 ### <b>Connect with Me</b> 
 
 <div align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    LinkedIn
-  </a><br/>
-  <a href="mailto:YOUR-EMAIL@gmail.com" target="_blank">
-    Gmail
-  </a><br/>
-  <a href="https://leetcode.com/YOUR-USERNAME" target="_blank">
-    LeetCode
+  <a href="https://www.linkedin.com/in/pratik-pattewar-665509319/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/Pratik_Pattewar" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.youtube.com/@x-rucher8290" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&to=pratikpattewar.ai@gmail.com@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://t.me/PratikP17" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="https://pratikpattewar.vercel.app/" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/domain.png" width="52" height="40" alt="portfolio" />
+</a>
+  <a href="https://leetcode.com/u/klu2300030969/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40" alt="Leetcode" />
+  </a>
+  <a href="https://www.codechef.com/users/pratik345" target="_blank">
+    <img src="https://cdn.codechef.com/images/cc-logo.svg" height="38" width="110" alt="codechef" />
   </a>
 </div>
