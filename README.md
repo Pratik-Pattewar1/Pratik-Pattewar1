@@ -14,7 +14,9 @@
 
 ## <b>My Skill Set</b>  
 
-<table><tr><td valign="top" width="33%">
+<table><tr>
+
+<td valign="top" width="33%">
 <b>Frontend</b>
 <div align="center">  
 
@@ -45,20 +47,57 @@
 </div>
 </td>
 
+
 <td valign="top" width="33%">
-<b>Backend</b> 
+<b>Backend</b>
 <div align="center">  
-MongoDB • Express.js • Node.js • MySQL • REST APIs  
+
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50" />
+</a>
+
+<a href="https://expressjs.com/" target="_blank">
+<img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="50" />
+</a>
+
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50" />
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" />
+</a>
+
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50"/>
+
 </div>
 </td>
 
-<td valign="top" width="33%">
-<b>DevOps / Tools</b>  
-<div align="center">  
-AWS • Linux • Git • Docker • GitHub  
-</div>
-</td></tr></table>  
 
+<td valign="top" width="33%">
+<b>DevOps / Tools</b>
+<div align="center">  
+
+<a href="https://aws.amazon.com/" target="_blank">
+<img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="50" />
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50" />
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" />
+</a>
+
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50"/>
+
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="50"/>
+
+</div>
+</td>
+
+</tr></table>
 <br/>
 
 <p align="center">
